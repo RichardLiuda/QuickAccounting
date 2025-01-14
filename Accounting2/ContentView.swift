@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Accounting2
-//
-//  Created by RichardLiu on 2025/1/13.
-//
-
 import SwiftUI
 
 // 添加 ViewModel 来管理状态
